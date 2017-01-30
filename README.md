@@ -1,6 +1,6 @@
 # OATools10_2
-Orientation Analysis Tools: Add-In for ArcMap 10.2
-Add-In for ArcMap 10.2. Orientation analysis tools for tectonic data processing in the mapping environment of ArcGIS.
+Orientation Analysis Tools: Add-In for ArcMap 10.3
+Add-In for ArcMap 10.3. Orientation analysis tools for tectonic data processing in the mapping environment of ArcGIS.
 These tools enable to plot orientations into diagram (azimuthal projection – equal-area
 net) as points or great circles, count the density distribution diagrams, map of spatial
 averages, map of fold axes or a rose histogram). Link Tool connects data in the diagram
