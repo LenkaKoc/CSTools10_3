@@ -8,3 +8,5 @@ and the map. Profile Tool was added to create profile line of cross section from
 additional functions are available (eigenvectors, vector calculator).
 As a result you can get an overview of main structures in the map, to accompany your
 map with diagrams and enjoy working in a single environment with no need of data transfer.
+
+Installation guide, add-in guide and sample data are uploaded. Diagram_outline.shp is the outline of the projection for Plot in Azimuthal Projection tool.
